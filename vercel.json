@@ -2,7 +2,6 @@
   "version": 2,
   "name": "revenue-clarity",
   "framework": null,
-  "rootDirectory": "./",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
