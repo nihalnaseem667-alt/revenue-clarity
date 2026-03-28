@@ -1,10 +1,12 @@
 {
   "version": 2,
   "name": "revenue-clarity",
+  "framework": null,
+  "rootDirectory": "./",
+  "installCommand": "npm install",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "framework": null,
+  "devCommand": "npm run dev",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
